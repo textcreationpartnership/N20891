@@ -118,8 +118,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:027444_0000_0FD43D0D041F09D8"/>
-            <pb facs="tcp:027444_0001_0FD3D884A216F978" rendition="simple:additions"/>
+            <pb facs="unknown:027444_0000_0FD43D0D041F09D8"/>
+            <pb facs="unknown:027444_0001_0FD3D884A216F978"
+                rendition="simple:additions"/>
             <p>SONGS IN THE HIGHLAND REEL. A COMIC OPERA. In Three Acts.</p>
             <p>BY JOHN O'KEEFE, ESQ.</p>
             <p>AS SUNG AT THE NEW THEATRE, PHILADELPHIA.</p>
@@ -128,7 +129,7 @@
             <p>PRINTED FOR M. CAREY. April 4th, 1794.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:027444_0002_0FD43CE85746C550"/>
+            <pb facs="unknown:027444_0002_0FD43CE85746C550"/>
             <list>
                <label>Laird of Col.</label>
                <item>
@@ -191,7 +192,7 @@
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:027444_0003_0FD43CEB74198258"/>
+            <pb facs="unknown:027444_0003_0FD43CEB74198258"/>
             <head>SONGS, ET CETERA.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -213,7 +214,7 @@
                   </sp>
                </div>
                <div n="2" type="song">
-                  <pb n="6" facs="tcp:027444_0004_0FD43CECACE06358"/>
+                  <pb n="6" facs="unknown:027444_0004_0FD43CECACE06358"/>
                   <head>II. AIR.—<hi>Shelty.</hi>
                   </head>
                   <sp>
@@ -246,7 +247,7 @@
                         <l>If this maiden be wi' bairn,</l>
                         <l>As I do ſuppoſe ſhe'll be;</l>
                         <l>
-                           <pb n="7" facs="tcp:027444_0005_0FD43CEFAC5D5490"/>Like good pappy, I muſt learn</l>
+                           <pb n="7" facs="unknown:027444_0005_0FD43CEFAC5D5490"/>Like good pappy, I muſt learn</l>
                         <l>To dandle Jackey on my knee,</l>
                         <l>With my, &amp;c.</l>
                      </lg>
@@ -319,7 +320,7 @@
                      <l>Oh, had I Allen Ramſey's art</l>
                      <l>To ſing my paſſion tender,</l>
                      <l>
-                        <pb n="8" facs="tcp:027444_0006_0FD43CF15348C098"/>In every verſe ſhall read my heart,</l>
+                        <pb n="8" facs="unknown:027444_0006_0FD43CF15348C098"/>In every verſe ſhall read my heart,</l>
                      <l>Such ſoothing ſtrains I'll ſend her;</l>
                      <l>Nor his, nor gentle Rizzio's aid</l>
                      <l>To ſhew is all a folly,</l>
@@ -352,7 +353,7 @@
                   </sp>
                </div>
                <div n="5" type="song">
-                  <pb n="9" facs="tcp:027444_0007_0FD43CF6878A38B8"/>
+                  <pb n="9" facs="unknown:027444_0007_0FD43CF6878A38B8"/>
                   <head>V. SONG.—<hi>Jenny.</hi>
                   </head>
                   <sp>
@@ -419,7 +420,7 @@ Affections moſt pure, &amp;c.</l>
                      <l>The youths may take pattern by thee,</l>
                   </sp>
                   <sp>
-                     <pb n="10" facs="tcp:027444_0008_0FD43CF9EB1148A8"/>
+                     <pb n="10" facs="unknown:027444_0008_0FD43CF9EB1148A8"/>
                      <speaker>Shel.</speaker>
                      <l>You give me of love ſuch a ſample,</l>
                      <l>Oh, married I'll certainly be.</l>
@@ -473,7 +474,7 @@ Oh, what is the gay blooming flow'r, &amp;c.</l>
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="11" facs="tcp:027444_0009_0FD43CFBB979F958"/>
+               <pb n="11" facs="unknown:027444_0009_0FD43CFBB979F958"/>
                <head>ACT II.</head>
                <div n="8" type="song">
                   <head>VIII. AIR.—<hi>Jenny.</hi>
@@ -508,7 +509,7 @@ Oh, what is the gay blooming flow'r, &amp;c.</l>
                   </sp>
                </div>
                <div n="9" type="song">
-                  <pb n="12" facs="tcp:027444_0010_0FD43CFD2EA73108"/>
+                  <pb n="12" facs="unknown:027444_0010_0FD43CFD2EA73108"/>
                   <head>IX. AIR.—<hi>Moggy.</hi>
                   </head>
                   <sp>
@@ -541,7 +542,7 @@ Oh, what is the gay blooming flow'r, &amp;c.</l>
                         <l>About me what a clutter—She's all divine.</l>
                      </lg>
                      <lg>
-                        <pb n="13" facs="tcp:027444_0011_0FD43CFEB22DA078"/>
+                        <pb n="13" facs="unknown:027444_0011_0FD43CFEB22DA078"/>
                         <l>They ſing, they dance, to pleaſe me how they caper.</l>
                         <l>Whilſt rivals challenge, huff and vapour;</l>
                         <l>As birds all welcome here to woo,</l>
@@ -577,7 +578,7 @@ Oh, what is the gay blooming flow'r, &amp;c.</l>
                         <l>With agility,—Grace, gentility,</l>
                         <l>Girls ſhake heel and toe, Pipes I tickle ſo,</l>
                         <l>
-                           <pb n="14" facs="tcp:027444_0012_0FD43D008B40FF28"/>My jiggs ſtill a pate, titilate, pretty mate,</l>
+                           <pb n="14" facs="unknown:027444_0012_0FD43D008B40FF28"/>My jiggs ſtill a pate, titilate, pretty mate,</l>
                         <l>My hops love mirth, young blood circulate.</l>
                         <l>Toodle, roodle, foodle roodle roo, toodle roodle roe.</l>
                      </lg>
@@ -614,7 +615,7 @@ Oh, what is the gay blooming flow'r, &amp;c.</l>
                         <l>No flocks, nor herds, nor ſtore of gold,</l>
                         <l>Nor houſe nor home have I,</l>
                         <l>
-                           <pb n="15" facs="tcp:027444_0013_0FD43D01F982CF10"/>If beauty muſt be bought or ſold,</l>
+                           <pb n="15" facs="unknown:027444_0013_0FD43D01F982CF10"/>If beauty muſt be bought or ſold,</l>
                         <l>Alas, I cannot buy, Jenny.</l>
                      </lg>
                      <lg>
@@ -651,7 +652,7 @@ Oh, what is the gay blooming flow'r, &amp;c.</l>
                </div>
                <div n="14" type="song">
                   <pb n="16"
-                      facs="tcp:027444_0014_0FD43D054086C400"
+                      facs="unknown:027444_0014_0FD43D054086C400"
                       rendition="simple:additions"/>
                   <head>XIV. AIR.—<hi>Serjeant Jack.</hi>
                   </head>
@@ -692,7 +693,7 @@ Oh, what is the gay blooming flow'r, &amp;c.</l>
                   </sp>
                </div>
                <div n="14" type="song">
-                  <pb n="17" facs="tcp:027444_0015_0FD43D081D469160"/>
+                  <pb n="17" facs="unknown:027444_0015_0FD43D081D469160"/>
                   <head>XIV. SONG.—<hi>Moggy.</hi>
                   </head>
                   <sp>
@@ -725,7 +726,7 @@ Oh, what is the gay blooming flow'r, &amp;c.</l>
                         <l>Tho' a barber never yet has mow'd my chin,</l>
                         <l>With my great broad ſword I long to begin,</l>
                         <l>
-                           <pb n="18" facs="tcp:027444_0016_0FD43D09F29B1FB8"/>Cut, ſlaſh, ram dam—oh glorious fun,</l>
+                           <pb n="18" facs="unknown:027444_0016_0FD43D09F29B1FB8"/>Cut, ſlaſh, ram dam—oh glorious fun,</l>
                         <l>For a gun, pip pop, change my little pop gun.</l>
                         <l>My foes ſhall fly like geeſe in flocks,</l>
                         <l>Ev'n Turks I'll drive like turkey cocks;</l>
@@ -788,7 +789,7 @@ Whiſky, friſky, prancing, dancing,</l>
                      <l>Nor bit, nor rein;</l>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:027444_0017_0FD43D0B8DED79B8"/>
+                     <pb n="19" facs="unknown:027444_0017_0FD43D0B8DED79B8"/>
                      <speaker>Mog.</speaker>
                      <l>The duce a <gap reason="illegible: indecipherable" extent="1 word">
                            <desc>〈◊〉</desc>
